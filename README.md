@@ -36,3 +36,17 @@ This is a Windows desktop application built with C# and .NET WinForms for real-t
 1. Clone the repository:
    ```bash
    git clone https://github.com/ParanovaFactory/Curreny_App.git
+
+---
+
+## 👤 Author
+
+**Sadık Berkay Karaduman**  
+📧 [karadumansadikberkay@gmail.com](mailto:karadumansadikberkay@gmail.com)  
+🔗 [GitHub – ParanovaFactory](https://github.com/ParanovaFactory)
+
+---
+
+## 📄 License
+
+MIT License — Feel free to use, modify, and contribute.
